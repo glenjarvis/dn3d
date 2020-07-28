@@ -270,7 +270,7 @@ Guidelines
 
 * Use a different topic branch for each topic
 * Keep commits small
-* Rebase topic branches (i.e., Don't merge master back into topic)
+* Rebase topic branches (i.e., Don't merge main back into topic)
 * `Use proper commit message <https://chris.beams.io/posts/git-commit/>`_
 
 
@@ -293,5 +293,5 @@ Credits
 -------
 
 This package was created with `Cookiecutter
-<https://github.com/glenjarvis/dn3d/blob/master/COOKIECUTTER_CREDIT>`_
+<https://github.com/glenjarvis/dn3d/blob/main/COOKIECUTTER_CREDIT>`_
 
